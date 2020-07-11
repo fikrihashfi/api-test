@@ -26,6 +26,7 @@
             }
     }
 - selanjutnya anda akan mendapatkan token, simpan token tersebut.
+- pastikan setiap akses api url terdapat authorization pada header, jika tidak akan selalu mengarah ke login page.
 - Akses API employee dengan cara :
     1.	Url : http://localhost:8000/api/employee
     2.	Request method : GET
