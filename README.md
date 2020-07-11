@@ -63,4 +63,4 @@
 Note : perhatikan API dari http://dummy.restapiexample.com/ karena API ini me-refer ke api tersebut, untuk id 1 terkadang tidak dapat diakses.
 
 ## Salah satu sample tampilan API jika berhasil diakses
-<img src="https://github.com/fikrihashfi/api-test/blob/master/example_success.png" width="600" height="200">
+<img src="https://github.com/fikrihashfi/api-test/blob/master/example_success.png" width="600" height="50">
